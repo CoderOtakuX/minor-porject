@@ -1,3 +1,4 @@
 # minor-porject
 
-creeated
+created using html css and js
+
