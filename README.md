@@ -1,4 +1,4 @@
 # minor-project
 
-created using html css and js
+created using html css and js.
 
